@@ -3,7 +3,7 @@
 This repo is a collections of ML/DL alogorithm that are implemented from scratch.
 Implementing algos from scatch help us a lot for better understanding of algorithms.
 
-# 1. Impliment Mnist classifier from scratch (with numpy)! 
+# 1. Implement Mnist classifier from scratch (with numpy)! 
 - File Name: MINST_scratch.ipynb
 - Data: MNIST
 - Test acc (so far) : ~85% (I will keep trying to get better test acc)
